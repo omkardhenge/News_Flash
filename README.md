@@ -1,7 +1,7 @@
 # News Flash
-An Android app built with Jetpack Compose and the latest android libraries.You can download my app on FDroid : 
+An Android app built with Jetpack Compose and the latest android libraries.You can download my app on the official website.
 
-# Things i used to build this app
+# Things I used to build this app
 
 -Jetpack Compose<br></br>
 -Clean Architecture<br></br>
